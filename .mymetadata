@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="day16_upload"
+  id="myeclipse.1450059951190"
+  context-root="/day16_upload"
+  j2ee-spec="5.0"
+  archive="day16_upload.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
